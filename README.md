@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm Tony!  I'm a Front-End Engineer that loves technology and learning ways in which technology can better our lives.  I always create applications with the user in mind and aim to make UI/UX simple and effective.
+
+
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonydhsu&hide=stars&show_icons=true&theme=gotham)](https://github.com/tonydhsu/github-readme-stats)
 
 <!--
 **tonydhsu/tonydhsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
